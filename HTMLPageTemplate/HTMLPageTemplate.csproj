@@ -75,11 +75,29 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="css\sample.css" />
+    <Content Include="media\apple-touch-icon..png" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.1.1.min.map" />
+    <None Include="Scripts\_references.js" />
+    <Content Include="HTMLBase.html" />
+    <Content Include="media\Close-small_hover_12x12px.png" />
+    <Content Include="media\Close-small_normal_12x12px.png" />
+    <Content Include="Scripts\document_ready.js" />
+    <Content Include="Scripts\jquery.plugin.js" />
+    <Content Include="Scripts\popupProvider.js" />
+    <Content Include="Scripts\revealingmodule.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
